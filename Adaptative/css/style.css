@@ -7,9 +7,7 @@ ADAPTIVE LAYOUT CSS
     margin: 0 auto;
   }
   
-  header {
-      width: 400px;
-  }
+  
   
   nav {
     width: 400px;
@@ -25,9 +23,6 @@ ADAPTIVE LAYOUT CSS
       width: 640px;
     }
     
-    header {
-      width: 640px;
-    }
     
     nav, section {
       float: left;
@@ -93,9 +88,7 @@ ADAPTIVE LAYOUT CSS
     border-radius: 3px;
   }
   
-  header {
-    padding: 50px 0;
-  }
+  
   
   nav, section {
     padding: 200px 0;
