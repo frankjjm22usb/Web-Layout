@@ -1,6 +1,4 @@
-/**************************************
-STATIC LAYOUT CSS
-**************************************/
+
 
 .wrapper {
   width: 960px;
@@ -26,9 +24,7 @@ section {
 
 
 
-/**************************************
-CSS TO MAKE THE EXAMPLE LOOK PRETTY
-**************************************/
+
 
 *, *:before, *:after {
   -moz-box-sizing: border-box;
